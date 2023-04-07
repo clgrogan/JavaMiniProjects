@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cgrogan
+ *
+ */
+module MiniJavaProjects {
+}
