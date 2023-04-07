@@ -8,6 +8,9 @@
 
 # JDE
 *.code-workspace
+*.project
+*.classpath
+*.settings/
 
 # Log file
 *.log
